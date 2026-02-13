@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-I am a PhD student in Computer Science at Texas A&M University, supervised by Prof. [Zhengzhong Tu](https://vztu.github.io/). My research interests focus on Multimodal Large Language Models, Trustworthy AI, and Machine Learning, among other related areas. My personal homepage: [https://shuoxing98.github.io/](https://shuoxing98.github.io/)
+I am a PhD student in Computer Science at Texas A&M University, supervised by Prof. [Zhengzhong Tu](https://vztu.github.io/). I am also working as a student researcher at Google. My research interests focus on Multimodal Large Language Models, Trustworthy AI, and Machine Learning, among other related areas. My personal homepage: [https://shuoxing98.github.io/](https://shuoxing98.github.io/)
 
-![Shuo's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuoxing98)
+
 
